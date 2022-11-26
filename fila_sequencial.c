@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 7
-
+// BY Fidelis
 typedef struct no_{
   int chave;
   int valor;
@@ -97,3 +97,4 @@ int main(void) {
   
   return 0;
 }
+
