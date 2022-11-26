@@ -89,7 +89,6 @@ int main(void) {
   novo.valor = 0;
   insere(novo); 
   insere(novo);
-  /* deve travar a posição para se o r der a volta ficar sempre uma posição vaga*/
   removes();
   insere(novo);
   imprime();
